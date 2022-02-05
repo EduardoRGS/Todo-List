@@ -70,7 +70,7 @@ public class TaskController {
         return taskService.updateTaskById(task,id);
     }
 
-    @ApiOperation(value = "Criando uma nova tarefa")
+    @ApiOperation(value = "Excluindo uma tarefa")
     @ApiResponses({
             @ApiResponse(code = 204, message = "Tarefa excluida com sucessoo"),
             @ApiResponse(code = 404, message = "Não foi possivel excluir a tarefa - tarefa não encontrada")
