@@ -9,4 +9,4 @@ CRUD de um Gerenciador de tarefas ultilizando Spring
 -``Postresql``
 
 ## 📁 Acesso ao deploy do projeto no heroku
-Você pode acessar o swagger do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+Você pode acessar o swagger do projeto clicando [aqui](https://todolist-eduardo.herokuapp.com/swagger-ui.html#/task-controller).
